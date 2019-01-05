@@ -1,0 +1,6 @@
+*.pyc
+*~
+__pycache__
+myenvedb.sqlite3
+/static
+.DS_Store
